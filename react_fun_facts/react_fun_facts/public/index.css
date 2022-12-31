@@ -1,10 +1,12 @@
 * {
-    margin: 0;
-    padding: 0;
     box-sizing: border-box;
-    text-decoration: none;
-    list-style: none;
+}
+
+body {
+    margin: 0;
     font-family: 'Inter', sans-serif ;
+    height: 100vh;
+    background-color: #282D35;
 }
 
 nav{
@@ -33,3 +35,21 @@ nav h3{
     
 }
 
+main {
+    padding: 60px 25px;
+    color: white;
+}
+
+h1{
+    margin: 0;
+    font-size: 39px;
+}
+
+ul{
+    margin-top: 46px;
+}
+
+ul > li{
+    line-height: 19px;
+    padding-block: 10px;
+}
