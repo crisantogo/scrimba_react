@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Inter', sans-serif ;
+}
+
+nav{
+    display: flex;
+    background-color: #21222A;
+    align-items: center;
+    padding: 30px 25px;
+    height: 90px;
+}
+
+nav > img {
+    height: 30px;
+    margin-right: 7px;
+}
+
+nav h4{
+    color: #DEEBF8;
+    font-weight: 600;
+}
+
+nav h3{
+    font-weight: 700;
+    font-size: 22px;
+    color: #61DAFB;
+    margin-right: auto;
+    
+}
+
