@@ -1,6 +1,10 @@
+import logo from "../assets/reactjs-icon.png"
+
 function Navbar(){
     return(
-        <h1>Navbar goes here</h1>
+        <nav>
+            <img src={logo} alt="react logo" />
+        </nav>
     )
 }
 
