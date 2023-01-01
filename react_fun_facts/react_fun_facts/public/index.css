@@ -53,3 +53,8 @@ ul > li{
     line-height: 19px;
     padding-block: 10px;
 }
+
+ul > li::marker{
+    color: #61DAFB;
+    font-size: 1.4rem;
+}
