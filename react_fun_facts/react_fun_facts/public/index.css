@@ -38,6 +38,10 @@ nav h3{
 main {
     padding: 60px 25px;
     color: white;
+    background-image: url("./reactjs-icon\ 2.png");
+    background-repeat: no-repeat;
+    background-position:right 75% ;
+   
 }
 
 h1{
